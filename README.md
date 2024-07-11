@@ -1,7 +1,7 @@
 # Decentralized App
 
 ## Overview
-Tres Finance dApp is a decentralized application that allows users to record and manage financial transactions on the Ethereum blockchain. The project leverages Solidity for smart contract development, React.js for the frontend, and Web3.js for blockchain interactions.
+dApp is a decentralized application that allows users to record and manage financial transactions on the Ethereum blockchain. The project leverages Solidity for smart contract development, React.js for the frontend, and Web3.js for blockchain interactions.
 
 ## Features
 - Record financial transactions with descriptions and amounts.
@@ -29,8 +29,8 @@ Tres Finance dApp is a decentralized application that allows users to record and
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/TresFinance-dApp.git
-   cd TresFinance-dApp/backend
+   git clone https://github.com/YourUsername/dApp.git
+   cd Tres-dApp/backend
    ```
 2. Install dependencies:
    ```bash
